@@ -54,7 +54,7 @@ Update_R.ps1
 
 Open PowerShell as Administrator and run:
 
-.\Update_R.ps1
+.\RUpdater.ps1
 
 📂 Log File Location
 
